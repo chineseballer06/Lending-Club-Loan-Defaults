@@ -18,7 +18,7 @@ The aim of this project is to use loan data provided by the Lending Club to expl
 
 For this problem, deep learning models were constructed using features that a potential investor would be able to use. This way investors could potentially use these deep learning models to predict which loans were more likely to be paid off versus being defaulted.
 
-![]('Screen Shot 2019-05-10 at 11.00.51 AM.png')
+![](investor.png)
 
 
 ## Results
