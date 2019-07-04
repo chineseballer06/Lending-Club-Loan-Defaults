@@ -21,10 +21,24 @@ For this problem, deep learning models were constructed using features that a po
 ![](investor.png)
 
 
+Further exploratory data analysis (EDA) was done to gain insight on different features in the dataset such as distribution of loans by their status, annual income, subgrade, and more.
+
+![](pie_chart.png)
+![](annual_income.png)
+![](subgrade.png)
+
+
 ## Results
 
 
-This projected resulted in building several types of MLP (Multilayer Perceptron) models with an accuracy of about 80%.  Further work can be done in the future to improve upon these results such as:
+This projected resulted in building several types of MLP (Multilayer Perceptron) models using binary classification to predict whether a loan was "Fully Paid" or "Charged OFF" with an accuracy of about 80%.  
+
+
+![](MLP_model.png)
+
+
+
+Further work that can be done in the future to improve upon these results include:
 - Use current loans df and model to make predictions
 - Further explore features for different feature selections
 - Test different initializers and optimizers
